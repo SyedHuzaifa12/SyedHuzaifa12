@@ -1,17 +1,10 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on ...<br><br>
-Building **Machine Learning, Data Science, and Generative AI** projects — including **LLM-powered & agentic AI systems**.<br><br>
+👨‍💻 **Currently:** ML, Data Science & Generative AI projects (LLM-powered, agentic systems)<br>
+🤝 **Open to:** GenAI, Agentic AI & ML collaborations (open-source / early-stage)<br>
+🌱 **Learning:** Advanced ML, Generative AI, Agentic AI frameworks<br>
+💬 **Ask me about:** ML projects, GenAI apps, agent-based systems<br>
+⚡ **Fun fact:** I prefer shipping working prototypes over talking 🚀
 
-🤝 I'm looking to collaborate on ...<br><br>
-**GenAI, Agentic AI, and ML** projects (open-source or early-stage product ideas).<br><br>
-
-🌱 I'm currently learning ...<br><br>
-Advanced **Machine Learning**, **Generative AI**, and **Agentic AI frameworks**.<br><br>
-
-💬 Ask me about ...<br><br>
-ML project building, **GenAI applications**, and agent-based systems.<br><br>
-
-⚡ Fun fact: I prefer **shipping working prototypes** over talking about ideas 🚀
 
 
 ## 🌐 Socials:
